@@ -75,7 +75,7 @@ class transformData:
     def __init__(self, data_range=None):
         self.r = data_range 
         self.data_range = { 
-            "CT":[-1024.0, 3072.0], 
+            "CT":[-1024.0, 3071.0], 
             "PET":[0.0, 20.0], 
             "MRI":[0.0, 4095.0],
             } 
