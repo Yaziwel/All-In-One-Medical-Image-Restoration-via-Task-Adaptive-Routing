@@ -1,6 +1,6 @@
 # All-In-One Medical Image Restoration via Task-Adaptive Routing (AMIR)
 
-PyTorch implementation for [All-In-One Medical Image Restoration via Task-Adaptive Routing](https://arxiv.org/abs/2405.19769) (AMIR) (MICCAI 2024).
+PyTorch implementation for All-In-One Medical Image Restoration via Task-Adaptive Routing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19769) (MICCAI 2024).
 
 ## Network Architecture
 
@@ -27,13 +27,13 @@ You can use [AMIDE](https://amide.sourceforge.net/) to visualize the ".nii" file
 If you find AMIR useful in your research, please consider citing:
 
 ```bibtex
-@misc{yang2024allinone,
-      title={All-In-One Medical Image Restoration via Task-Adaptive Routing}, 
-      author={Zhiwen Yang and Haowei Chen and Ziniu Qian and Yang Yi and Hui Zhang and Dan Zhao and Bingzheng Wei and Yan Xu},
-      year={2024},
-      eprint={2405.19769},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{yang2024amir,
+  title={All-In-One Medical Image Restoration via Task-Adaptive Routing},
+  author={Yang, Zhiwen and Chen, Haowei and Qian, Ziniu and Yi, Yang and Zhang, Hui and Zhao, Dan and Wei, Bingzheng and Xu, Yan},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={67--77},
+  year={2024},
+  organization={Springer}
 }
 ```
 
