@@ -8,7 +8,7 @@ PyTorch implementation for All-In-One Medical Image Restoration via Task-Adaptiv
 
 ## Dataset
 
-You can download the preprocessed datasets for MRI super-resolution, CT denoising, and PET synthesis from Baidu Netdisk [here](https://pan.baidu.com/s/1oBBG_Stcn7cfO8U49S146w?pwd=3x13 ).
+You can download the preprocessed datasets for MRI super-resolution, CT denoising, and PET synthesis from [Baidu Netdisk](https://pan.baidu.com/s/1oBBG_Stcn7cfO8U49S146w?pwd=3x13) or [Google Drive](https://drive.google.com/drive/folders/12Qdkdms14Kfv3P60clyCURtnoFpLhFnX?usp=sharing).
 
 The original dataset for MRI super-resolution and CT denoising are as follows:
 
