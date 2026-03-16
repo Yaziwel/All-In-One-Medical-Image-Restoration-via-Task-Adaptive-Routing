@@ -2,6 +2,8 @@
 
 PyTorch implementation for All-In-One Medical Image Restoration via Task-Adaptive Routing [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19769) (MICCAI 2024).
 
+:rocket::rocket::rocket:Check our paper collection of recent **Awsome-Medical-Image-Restoration** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-Medical-Image-Restoration.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-Medical-Image-Restoration)
+
 ## Network Architecture
 
 ![](README.assets/network_arch.png)
